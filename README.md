@@ -24,4 +24,4 @@ To apply advanced Python techniques for data transformation, time-series analysi
 * Key findings& Conclusion.
 
 # VISUALIZATION
-![Monthly_Returns](images/Monthly Returns.png)
+![Monthly_Returns](Images/Monthly Returns.png)
