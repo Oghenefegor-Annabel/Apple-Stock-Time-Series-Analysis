@@ -28,3 +28,33 @@ To apply advanced Python techniques for data transformation, time-series analysi
 ## Monthly Returns
 
 <img src="Images/Monthly Returns.png" width="800">
+
+## Moving Average
+
+<img src="Images/Moving Average.png" width="800">
+
+## Stock Price
+
+<img src="Images/Stock_Price.png" width="800">
+
+## Trading Volume
+
+<img src="Images/Trading volume.png" width="800">
+
+## Trading vs Closing
+
+<img src="Images/Tradingvsclosing.png" width="800">
+
+## Volatility
+
+<img src="Volatility.png" width="800">
+
+# KEY FINDINGS
+* Apple experienced 143.3% growth within the five years period.
+* There is a moderate level of daily gain and loss.
+* The moving averages effectively smoothed daily fluctuations, making the long-term upward trend more apparent.
+* Through the years each month either gave a positive or negative performance which is normal for the stock market.
+* Volatility showed periods of increased market uncertainty and price instability.
+
+
+
