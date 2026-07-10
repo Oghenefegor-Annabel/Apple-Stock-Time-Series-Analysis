@@ -25,4 +25,6 @@ To apply advanced Python techniques for data transformation, time-series analysi
 
 # VISUALIZATION
 
-! [Monthly Returns](Images/Monthly Returns.png)
+## Monthly Returns
+
+<img src="Images/Monthly Returns.png" width="800">
