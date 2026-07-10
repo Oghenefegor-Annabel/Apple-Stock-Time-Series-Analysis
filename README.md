@@ -47,7 +47,7 @@ To apply advanced Python techniques for data transformation, time-series analysi
 
 ## Volatility
 
-<img src="Volatility.png" width="800">
+<img src="Images/Volatility.png" width="800">
 
 # KEY FINDINGS
 * Apple experienced 143.3% growth within the five years period.
