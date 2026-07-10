@@ -28,23 +28,24 @@ To apply advanced Python techniques for data transformation, time-series analysi
 ## Monthly Returns
 
 <img src="Images/Monthly Returns.png" width="800">
+**Insight:** The data shows significant volatility, with frequent fluctuations between positive and negative monthly performance throughout the period.
 
 ## Moving Average
 
 <img src="Images/Moving Average.png" width="800">
-
+**Insight:** This indicator successfully smooths price noise, clearly illustrating a sustained upward trend that might be obscured by daily price swings.
 ## Stock Price
 
 <img src="Images/Stock_Price.png" width="800">
-
+**Insight:** The overall trajectory shows long term growth, with ending price being substantially higher than the starting price despite several intermediate pullbacks.
 ## Trading Volume
 
 <img src="Images/Trading volume.png" width="800">
-
+**Insights:** There are distinct, irregular spikes in activity, likely corresponding to major news events or earnings reports that triggered high market participation.
 ## Trading vs Closing
 
 <img src="Images/Tradingvsclosing.png" width="800">
-
+**Insights:** This scatter plot suggests a concentration of high volume at lower price points, with trading activity generally thinning out as the stock price reaches its peak.
 ## Volatility
 
 <img src="Images/Volatility.png" width="800">
